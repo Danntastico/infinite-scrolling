@@ -5,7 +5,7 @@
   "license": "MIT",
   "scripts": {
     "start": "webpack serve",
-    "build": "wepack"
+    "build": "webpack"
   },
   "keywords": [
     "VanillaJS",
